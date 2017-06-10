@@ -1,0 +1,29 @@
+{
+  "name": "spunky-tracker-server",
+  "version": "1.0.0",
+  "description": "Schiphol Developers Workshop Example GraphQL Server",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "development": "nodemon",
+    "start": "node ./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kel-sakal-biyik/spunky-tracker-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kel-sakal-biyik/spunky-tracker-server/issues"
+  },
+  "homepage": "https://github.com/kel-sakal-biyik/spunky-tracker-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "graphql": "^0.10.1",
+    "graphql-server-express": "^0.8.0",
+    "graphql-tools": "^1.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
