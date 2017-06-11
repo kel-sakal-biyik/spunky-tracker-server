@@ -27,6 +27,7 @@
     "nodemon": "^1.11.0"
   },
   "devDependencies": {
-    "casual": "^1.5.14"
+    "casual": "^1.5.14",
+    "cors": "^2.8.3"
   }
 }
