@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/kel-sakal-biyik/spunky-tracker-server.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Uğur Korfalı",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kel-sakal-biyik/spunky-tracker-server/issues"
   },
